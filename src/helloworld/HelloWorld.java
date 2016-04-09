@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package firsthelloworld;
+package helloworld;
 
 /**
  *
  * @author g14940nm
  */
-public class FirstHelloWorld {
+public class HelloWorld {
 
     /**
      * @param args the command line arguments
@@ -17,6 +17,7 @@ public class FirstHelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
             System.out.println("Hello World");
+            System.out.println("こんにちは世界");
     }
     
 }
